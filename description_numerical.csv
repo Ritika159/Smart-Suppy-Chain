@@ -1,0 +1,28 @@
+FIELDS,DESCRIPTION
+Days for shipping (real)     ,:  Actual shipping days of the purchased product
+Days for shipment (scheduled),:  Days of scheduled delivery of the purchased product
+Benefit per order,:  Earnings per order placed
+Sales per customer,:  Total sales per customer made per customer
+Late_delivery_risk           ,":  Categorical variable that indicates if sending is late (1), it is not late (0)."
+Category Id,:  Product category code
+Customer Id,:  Customer ID
+Customer Zipcode,:  Customer Zipcode
+Department Id,:  Department code of store
+Latitude,:  Latitude corresponding to location of store
+Longitude,:  Longitude corresponding to location of store
+Order Customer Id,:  Customer order code
+Order Id,:  Order code
+Order Item Cardprod Id,:  Product code generated through the RFID reader
+Order Item Discount,:  Order item discount value
+Order Item Discount Rate     ,:  Order item discount percentage
+Order Item Id,:  Order item code
+Order Item Product Price     ,:  Price of products without discount
+Order Item Profit Ratio,:  Order Item Profit Ratio
+Order Item Quantity,:  Number of products per order
+Sales,:  Value in sales
+Order Item Total  ,:  Total amount per order
+Order Profit Per Order,:  Order Profit Per Order
+Product Card Id,:  Product code
+Product Category Id,:  Product category code
+Product Price,:  Product Price
+Product Status,":  Status of the product stock :If it is 1 not available , 0 the product is available "
